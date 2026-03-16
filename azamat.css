@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.azamatseSection {
+    text-align: center;
+}
+.azamatpng {
+    font-size: 700px;
+}
+.azamatpng2 {
+    font-size: 600px;
+}
+.meningbox1 {
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+.meningbox2 {
+    padding-bottom: 80px;
+    font-size: 20px;
+}
